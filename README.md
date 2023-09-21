@@ -1,4 +1,4 @@
-# vuedongsan
+# vue3-setting
 
 ## Project setup
 ```
